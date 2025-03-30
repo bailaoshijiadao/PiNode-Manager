@@ -6,6 +6,7 @@
   <img alt="logo" src="https://github.com/bailaoshijiadao/PiNode-Manager/blob/main/images/setting.png"/></a>
 </div>
 <br><br><br>
+
 ### #v0.1.0
 <b>主页</b><br><br>
 主页显示下一次点闪电节点奖励<br>
