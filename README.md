@@ -6,6 +6,17 @@
   <img alt="logo" src="https://github.com/bailaoshijiadao/PiNode-Manager/blob/main/images/setting.png"/></a>
 </div>
 <br><br><br>
+<b>如何试用</b><br><br>
+点击左上角钻石图标, 点击试用15天按钮, 试用到期可继续点击试用。<br>
+如需其他国家语言, 请提交github。<br>
+需要增加额外功能, 请提交github。<br>
+
+### #v0.1.1
+<b>主页</b><br><br>
+增加中文语言切换<br>
+<b>功能设置</b><br><br>
+只删除节点账户信息按钮 [试用开通]<br>
+只删除本地区块文件按钮 [试用开通]<br><br>
 
 ### #v0.1.0
 <b>主页</b><br><br>
@@ -22,4 +33,5 @@ docker 镜像停止重启开关 [可试用15天]<br>
 只删除节点账户信息按钮 [仅会员可用]<br>
 解密本地uuid信息按钮 [仅会员可用]<br>
 只删除本地区块文件按钮 [仅会员可用]<br><br>
+
 
