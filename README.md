@@ -6,8 +6,6 @@
   <img alt="logo" src="https://github.com/bailaoshijiadao/PiNode-Manager/blob/main/images/setting.png"/></a>
 </div>
 <br><br><br>
-<b>如何试用</b><br>
-点击左上角钻石图标, 点击试用15天按钮, 试用到期可继续点击试用。<br>
 如需其他国家语言, 请提交github。<br>
 需要增加额外功能, 请提交github。<br><br><br>
 
